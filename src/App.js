@@ -1,4 +1,3 @@
-import './App.css';
 import Header from './Header';
 import navItems from './NavItems';
 import logo from './logo.svg';
